@@ -1,0 +1,13 @@
+
+
+create a policy-service with following endpoints:
+
+    create-policy
+    renew-policy
+    add-vehicle
+    remove vehicle
+    bill
+    payment
+
+RULES:
+for policy number: we will use 5 digit policy number
